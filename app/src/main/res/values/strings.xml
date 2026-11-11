@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Mesa</string>
+    <string name="app_tagline">Tableros kanban 100% offline</string>
+    
+    <!-- Topbar & Navigation -->
+    <string name="new_board">Nuevo tablero</string>
+    <string name="boards">Tableros</string>
+    <string name="search_cards">Buscar tarjetas…</string>
+    <string name="undo">Deshacer</string>
+    <string name="redo">Rehacer</string>
+    <string name="toggle_theme">Cambiar tema</string>
+    <string name="board_options">Opciones del tablero</string>
+    <string name="menu_and_backups">Menú y respaldos</string>
+    
+    <!-- Board Details -->
+    <string name="board_name">Nombre del tablero</string>
+    <string name="board_color">Color del tablero</string>
+    <string name="delete_board">Eliminar tablero</string>
+    <string name="duplicate_board">Duplicar tablero</string>
+    <string name="clear_filters">Limpiar filtros</string>
+    
+    <!-- Filters -->
+    <string name="filter_all">Todo</string>
+    <string name="filter_overdue">Vencidas</string>
+    <string name="filter_today">Para hoy</string>
+    <string name="filter_week">Próximos 7 días</string>
+    <string name="filter_no_date">Sin fecha</string>
+    
+    <!-- Lists & Cards -->
+    <string name="add_list">Añadir lista</string>
+    <string name="add_card">Añadir tarjeta</string>
+    <string name="list_title">Título de la lista</string>
+    <string name="card_title">Título de la tarjeta</string>
+    <string name="card_description">Descripción o notas…</string>
+    <string name="due_date">Fecha de vencimiento</string>
+    <string name="checklist">Lista de comprobación</string>
+    <string name="add_checklist_item">Añadir elemento…</string>
+    <string name="labels">Etiquetas</string>
+    <string name="manage_labels">Gestionar etiquetas</string>
+    
+    <!-- Actions -->
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="copy">Copiar</string>
+    <string name="move">Mover</string>
+    <string name="share">Compartir</string>
+    <string name="export_backup">Exportar respaldo (JSON)</string>
+    <string name="import_backup">Importar respaldo (JSON)</string>
+    <string name="confirm_delete_title">¿Eliminar este elemento?</string>
+    <string name="confirm_delete_board_msg">Esta acción no se puede deshacer. Se borrarán todas las listas y tarjetas del tablero.</string>
+    <string name="confirm_delete_list_msg">Se borrará esta lista y todas sus tarjetas.</string>
+    <string name="confirm_delete_card_msg">¿Estás seguro de que deseas eliminar esta tarjeta?</string>
+</resources>
